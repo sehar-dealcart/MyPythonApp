@@ -7,3 +7,4 @@ EXPOSE 5002
 ENTRYPOINT ["python","./app.py"]
 print("Hello, World!")
 print("Hello, World!")
+print("Hello, World!")
