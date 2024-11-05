@@ -5,3 +5,4 @@ WORKDIR /app
 RUN yum update -y; yum upgrade -y; pip install -r requirements.txt
 EXPOSE 5002
 ENTRYPOINT ["python","./app.py"]
+print("Hello, World!")
