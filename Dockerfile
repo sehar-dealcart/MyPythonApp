@@ -8,3 +8,4 @@ ENTRYPOINT ["python","./app.py"]
 print("Hello, World!")
 print("Hello, World!")
 print("Hello, World!")
+print("Hello, World!")
